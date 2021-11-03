@@ -49,6 +49,48 @@ a:-webkit-any-link{
     margin: 0 auto;
     padding: 0;
 }
+
+.midaishi2{
+    background-color: #1a1a1a;
+    margin: 0 auto 8px;
+    padding: 3px 10px;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: #1a1a1a 0 0 0 1px;
+    font-weight: 700;
+    font-size: 160%;
+    line-height: 110%;
+    color: white;
+    clear: both;
+}
+p{
+   display: block;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px; 
+}
+p.center{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.bun{
+    margin: 0 15px 20px;
+    padding: 0;
+}
+.gazo{
+    margin: 0 10px;
+    padding: 0;
+    border: none;
+    width: 19px;
+    height: 60px;
+}
+
+.bun4{
+    margin: 0 4px 20px;
+    padding: 0;
+}
 header{
     display: block;
 }
